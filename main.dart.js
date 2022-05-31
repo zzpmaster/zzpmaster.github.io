@@ -56472,7 +56472,7 @@ $2(a,b){var s=null
 return new A.cS(B.xK,A.k9(new A.rm(b,s),s,s),s)},
 $S:360}
 A.rm.prototype={
-I(a,b){return A.a7v(A.r7(15),A.aax(B.ab,A.ab2("images/img"+(this.d+1)+".png",B.ka)),B.q,B.l,10,B.l,B.ao)}}
+I(a,b){return A.a7v(A.r7(15),A.aax(B.ab,A.ab2("assets/images/img"+(this.d+1)+".png",B.ka)),B.q,B.l,10,B.l,B.ao)}}
 A.yQ.prototype={
 bO(){this.cZ()
 this.cm()
