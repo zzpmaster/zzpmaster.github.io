@@ -56501,7 +56501,7 @@ ar(){return new A.IG(B.n)}}
 A.IG.prototype={
 I(a,b){var s,r,q=null
 this.a.toString
-s=A.A3(A.a7O("My Cards",B.dy,q,q),q,q)
+s=A.A3(A.a7O("Animation",B.dy,q,q),q,q)
 r=A.tp(B.r,B.el,q,new A.a2O(),q)
 return A.EO(A.zy(A.a([A.tp(B.r,B.l2,q,new A.a2P(),q)],t.E),B.k,0,q,r,s),q,B.tG,q)}}
 A.a2O.prototype={
